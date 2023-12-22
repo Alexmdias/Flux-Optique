@@ -1,0 +1,5 @@
+La façon la plus facile de tester ce programme, est d'installer l'extension "live server" sur visual studio code.
+
+J'ai pris du code ThreeJS venant d'un de mes anciens projets ici : https://github.com/Alexmdias/ProceduralPlanet
+
+Pour la visualisation des vecteurs à l'écran, j'ai regarder l'algorithme ici : https://www.shadertoy.com/view/3dlGDM
